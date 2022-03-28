@@ -2,7 +2,7 @@
 ceRNAshiny, an interactive R/Shiny application, which integrates widely used computational methods and databases to provide and visualize the construction and analysis of ceRNA network, including differential gene analysis and functional annotation. In addition, demo data in ceRNAshiny could provide the ceRNA network analyses about neurodegenerative diseases such as Parkinson’s disease. Overall, ceRNAshiny is a user-friendly application that benefits all researchers, especially those who lack an established bioinformatic pipeline and are interested in studying ceRNA networks.
 
 # Launch ceRNAshiny
-ceRNAshiny does not need to be installed and is hosted on Shinyapps.so: https://cerna.shinyapps.io/cerna_shiny/.
+ceRNAshiny does not need to be installed and is hosted on shinyapps.io: https://cerna.shinyapps.io/cerna_shiny/.
 
 # Usage
 See [ceRNAshiny](https://cerna.shinyapps.io/cerna_shiny/) mannul and example use cases pages for further details.
